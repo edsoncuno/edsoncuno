@@ -1,4 +1,6 @@
 ## Hola 👋
+
+## Sobre mi
 - :dog: Data Science
 - :cat: Desarrollador fronted
 
