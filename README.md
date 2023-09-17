@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-- 🔭 Desarrollador fronted
-- 🌱 Estoy aprendiendo Data Science
+- :cat: Desarrollador fronted
+- :dog: Estoy aprendiendo Data Science
+
+### Lenguajes y herramientas
