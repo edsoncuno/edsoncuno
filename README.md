@@ -24,3 +24,6 @@
 
 ## Estadísticas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edsoncuno&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
