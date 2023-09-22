@@ -3,7 +3,8 @@
 </div>
 
 ## Hola, Soy Edson Cuno 👋
-
+Estudiante de Ingeniería Informática con conocimientos en Data Science y desarrollo web.
+Actualmente, me dedico a incrementar mis habilidades con el manejo de los datos y modelado predictivo y de clasificación. También a construir sitios web para pequeños negocios.
 
 ## Sobre mi
 - :dog: Data Science
